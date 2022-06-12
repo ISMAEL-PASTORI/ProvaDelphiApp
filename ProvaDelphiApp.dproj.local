@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/11 12:39:50.000.065,=C:\Users\Ismael\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/06/11 12:41:14.000.787,C:\Users\Ismael\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\uFrmProvaDelphiApp.dfm</Transaction>
+    <Transaction>2022/06/11 12:41:14.000.787,C:\Users\Ismael\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\uFrmProvaDelphiApp.pas</Transaction>
+    <Transaction>2022/06/11 12:42:13.000.473,C:\Users\Ismael\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\ProvaDelphiApp.dproj</Transaction>
+    <Transaction>2022/06/11 15:30:23.000.204,=C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/06/11 15:44:04.000.251,=C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/06/11 15:44:28.000.203,C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\Unit1.pas=C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\ufTarefas1.pas</Transaction>
+    <Transaction>2022/06/11 15:44:28.000.203,C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\Unit1.dfm=C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\ufTarefas1.dfm</Transaction>
+    <Transaction>2022/06/11 20:52:44.000.644,=C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/06/11 20:53:22.000.884,C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\Unit1.pas=C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\ufTarefa2.pas</Transaction>
+    <Transaction>2022/06/11 20:53:22.000.884,C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\Unit1.dfm=C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\ufTarefa2.dfm</Transaction>
+    <Transaction>2022/06/12 12:29:20.828,C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\ufTarefa1.pas=C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\ufTarefas1.pas</Transaction>
+    <Transaction>2022/06/12 12:29:20.829,C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\ufTarefa1.dfm=C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\ufTarefas1.dfm</Transaction>
+    <Transaction>2022/06/12 12:29:52.269,=C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/06/12 12:30:09.622,C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\ufTarefa3.pas=C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\Unit1.pas</Transaction>
+    <Transaction>2022/06/12 12:30:09.622,C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\ufTarefa3.dfm=C:\Users\Ismael\Documents\SoftPlan\ProvaDelphiApp\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
